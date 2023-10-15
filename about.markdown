@@ -15,11 +15,12 @@ With a deep love for mathematics, probability, and statistics, I find beauty in 
 
 I am a fifth year PhD student in the [Carrasco Lab][CarrascoLabLink], Cognition & Perception Program of New York University. In my dissertation, I explore how our visual perception is influenced by the  interplay between attention and expectation. I dive headfirst into the vast sea of human behavior and eye-tracking data, employing the principles of psychophysics to uncover the secrets of human vision and mind.
 
-During my journey, I did two internships at Meta Reality Labs Research, where I had the opportunity to work on Augmented and Virtual Reality. These experiences not only deepened my fascination with human interaction in virtual environments but also provided me with hands-on expertise in this exciting field.
+During my journey, I did two internships at [Meta Reality Labs Research][RLRLink], where I had the opportunity to work on Augmented and Virtual Reality. These experiences not only deepened my fascination with human interaction in virtual environments but also provided me with hands-on expertise in this exciting field.
 
 I am always open for nerdy, scientific discussions. Follow me on [Twitter][TwitterLink], add me on [LinkedIn][LinkedInLink], or shoot me an [email][emailLink]!
 
 [CarrascoLabLink]: https://carrascolab.hosting.nyu.edu/
+[RLRLink]: https://tech.facebook.com/reality-labs/2021/11/inside-reality-labs-meet-the-team-thats-bringing-touch-to-the-digital-world/
 [TwitterLink]: https://twitter.com/aysunduyar/
 [LinkedInLink]: https://www.linkedin.com/in/aysun-duyar/
 [emailLink]: mailto:aysunduyar@gmail.com
