@@ -7,7 +7,7 @@ permalink: /about/
 🧠 Scientist, Experimental Psychologist | 🚀 AR/VR Explorer | 📊 Data Science
 
 
-Hi there! I am Aysun, a scientist with a passion for delving into the intricacies of human perception and cognition. I thrive on the challenge of understanding how our senses interact with the world around us, and enables our actions.
+Hi there! I am Aysun, a scientist with a passion for human perception and cognition. I thrive on the challenge of understanding how our senses interact with the world around us, and how to augment human capabilities with new technologies.
 
 My research is focused at the intersection of science and technology, where I aim to advance our understanding of human mind and use this knowledge to drive innovations. My goal is to contribute to groundbreaking technological developments that can enhance our daily lives.
 
